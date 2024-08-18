@@ -4,6 +4,12 @@ layout: layouts/page.njk
 permalink: /translations/german/index.html
 ---
 
+# Fragen im Bewerbungsgespräch für Frontend-Entwickler/-innen
+
+Diese Liste enthält mehrere Fragen, die in einem Bewerbungsgespräch für Frontend-Entwickler/-innen benutzt werden können. Es ist in keinem Fall empfohlen, alle Fragen an denselben Kandidaten zu stellen (dies würde Stunden dauern). Eine kleine Auswahl an Fragen von dieser Liste sollte Ihnen helfen, gewünschte Kompetenzen herauszufiltern.
+
+**Anmerkung:** Viele dieser Fragen sind offen gestellt und können zu interessanten Diskussionen führen, die mehr über die Kompetenzen des Bewerbenden aussagen, als es eine simple Antwort würde.
+
 # Inhaltsverzeichnis
 
 1. [Allgemeine Fragen](#general)
